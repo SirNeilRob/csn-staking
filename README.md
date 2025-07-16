@@ -111,6 +111,12 @@ anchor test
 
 ## License
 
+## ⚠️ Intellectual Property Notice
+
+This code is proprietary and protected under U.S. copyright law.  
+No license is granted for use, distribution, or modification without explicit written permission from the author.  
+Any unauthorized use may result in legal consequences.
+
 
 ## Contributing
 
